@@ -1,0 +1,3 @@
+C:/Users/EmreAydn/Downloads/Week 06 - 1/build/CMakeFiles/media_fundamentals.dir
+C:/Users/EmreAydn/Downloads/Week 06 - 1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/EmreAydn/Downloads/Week 06 - 1/build/CMakeFiles/ZERO_CHECK.dir

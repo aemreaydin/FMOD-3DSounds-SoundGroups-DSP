@@ -1,0 +1,17 @@
+START
+Streaming HikingATrail.mp3
+Streaming RowingABoat.mp3
+Streaming CracklingFireplace.mp3
+Sampled DogWoof.mp3
+Sampled HawkCall.mp3
+Sampled CardinalBird.mp3
+Sampled WaterSplash.mp3
+Sampled CroakingSound.mp3
+Sampled MallardDuck.mp3
+Sampled GoofyLaugh.mp3
+Sampled GiggleSound.mp3
+Sampled HornedOwl.mp3
+END
+
+
+

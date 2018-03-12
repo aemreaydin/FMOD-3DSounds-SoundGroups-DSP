@@ -1,0 +1,14 @@
+(HikingATrail) 
+(DogWoof, HawkCall, CardinalBird)
+On Saturday, Ashley and her friends went on a hike at the Yosemite National Park. They brought her dog with them. 
+As they hiked the track, they could hear birds chirping. They could also hear a hawk cry occasionally.
+
+(RowingABoat)
+(WaterSplash, CroakingSound, MallardDuck)
+After a couple of hours walking, they found a small stream that leads to a lake. Some of them started jumping into the lake to swim, 
+some start playing with the ducks nearby and some tried to catch some frogs.
+
+(CracklingFireplace)
+(GoofyLaugh, GiggleSound, HornedOwl)
+Night time came and they set up a camp. They made some fire to provide them with light and warmth. As they were having dinner, they tell stories
+and joked around.
